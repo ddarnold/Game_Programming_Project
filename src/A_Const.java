@@ -8,10 +8,10 @@ final class A_Const
   static final int WORLD_WIDTH      = 5000;
   static final int WORLD_HEIGHT     = 4000;
   // size of the displayed part of the world
-  static final int WORLDPART_WIDTH  = 1920;
-  static final int WORLDPART_HEIGHT = 1080;
+  static final int WORLDPART_WIDTH  = 1024;
+  static final int WORLDPART_HEIGHT = 720;
   // border: when to scroll
-  static final int SCROLL_BOUNDS    =  500;
+  static final int SCROLL_BOUNDS    =  350;
 	  
   static final double SPAWN_INTERVAL = 0.2;
   static final double SPAWN_GRENADE  = 10.0;
